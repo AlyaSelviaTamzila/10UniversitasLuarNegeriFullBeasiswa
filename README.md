@@ -14,5 +14,5 @@
 ![alt text](https://github.com/AlyaSelviaTamzila/10UniversitasLuarNegeriFullBeasiswa/blob/master/10.PNG)
 # Hasil apabila mengeklik "SIGNUP"
 ![alt text](https://github.com/AlyaSelviaTamzila/10UniversitasLuarNegeriFullBeasiswa/blob/master/11.PNG)
-hasil setelah klik 'simpan'
+hasil setelah klik 'Daftar'
 ![alt text](https://github.com/AlyaSelviaTamzila/10UniversitasLuarNegeriFullBeasiswa/blob/master/12.PNG)
