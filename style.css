@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+
+.header{
+    text-align: center;
+    font-size: 30px;
+    line-height: 20px;
+    padding-top: 10px;
+    width: 70%;
+    height: 30%;
+    background-image: url("header.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 200px;
+    margin-left:15%;
+    margin-right:15%;
+}
+
+
+body{
+    background-color: #F0F8FF;
+
+}
+
+.menu{
+width: 70%;
+background-color: firebrick;
+height: 8%;
+margin-left:15%;
+margin-right:15%;
+}
+
+.menu ul{
+    list-style: none;
+    overflow: hidden;
+    
+}
+ a {
+    text-decoration: none;
+    color: white;
+}
+.menu ul li{
+    float: left;
+   
+    color:white;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+a:hover{
+    color: black;
+}
+
+.hl{
+    text-align: center;
+    line-height: 20px; 
+    padding-bottom: 0px;
+    width: 70%;
+    height: 15%;
+    background-color: #FAFAD2;
+    margin-left:15%;
+    margin-right:15%;
+    margin-top:0px;
+}
+
+.info{  
+    width: 70%;
+    background-color: #FAFAD2;
+    height: 3100px;
+    margin-left:15%;
+    margin-right:15%;
+}
+
+.hi{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.hel{
+    width: 70%;
+    background-color: #FAFAD2;
+    height: 1500px;
+    margin-left: 15%;
+    margin-right: 15%; 
+    margin-top: 0%;   
+}
+
+.iy{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.daftar{
+    width: 70%;
+    background-color: #FAFAD2;
+    height: 230px;
+    margin-left: 15%;
+    margin-right: 15%; 
+    margin-top: 0%;
+}
+
+.dtr{
+    width: 70%;
+    background-color: #FAFAD2;
+    height: 230px;
+    margin-left: 15%;
+    margin-right: 15%; 
+    margin-top: 0%;
+}
